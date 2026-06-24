@@ -6,9 +6,7 @@ export default defineNuxtConfig({
     '@nuxt/content'
   ],
 
-  devtools: {
-    enabled: true
-  },
+  devtools: { enabled: true },
 
   css: ['~/assets/css/main.css'],
 
@@ -16,7 +14,7 @@ export default defineNuxtConfig({
     '/': { prerender: true }
   },
 
-  compatibilityDate: '2025-01-15',
+  compatibilityDate: '2026-06-23',
 
   eslint: {
     config: {
