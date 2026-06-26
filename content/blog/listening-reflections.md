@@ -35,7 +35,7 @@ ground in music. We're just trying to make good music."
 :spotify-embed{trackId="7CRPXJt3IVC7V0VcM0PSQi"}
 
 The Diddy Bop, for the uninitiated, is a
-[dance move popularized in the 90s](https://www.youtube.com/shorts/ny3iAccxYuM). Without getting to distracted by
+[dance move popularized in the 90s](https://www.youtube.com/shorts/ny3iAccxYuM). Without getting too distracted by
 Diddy's tarnished legacy, the namesake of the song is just one of many references to a time period in Noname's life when
 she still held onto her childhood innocence. I think that sense of growing up is what resonated with me here given that
 I would have been in my freshman year of college during this time.
